@@ -1,4 +1,4 @@
-#some of them are useful for your usecase, check with ai
+# this file provided is quite comprehensive and includes many common patterns for ignoring files and directories, ask copilot to remove unnecesarry ones and use it for your projects.
 # Logs
 logs
 *.log
